@@ -1,0 +1,13 @@
+***********
+name :  Chinese airline & airport infomation
+author : STEVEN GAO
+date : 2016
+***********
+
+total airport number :  219
+in-use airport number :  166
+
+total airline number :  73
+in-use airline number : 23
+
+total route number : 6853
